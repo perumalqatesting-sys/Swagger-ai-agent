@@ -1,0 +1,12 @@
+node_modules/
+dist/
+server.log
+server.err
+coverage/
+*.log
+.env
+.env.*
+.generated/
+generated-tests/
+.DS_Store
+Thumbs.db
